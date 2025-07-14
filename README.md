@@ -7,12 +7,19 @@ This repository contains a collection of machine learning projects, each solving
 ## 📂 Project Structure
 
 ├── dataset/ # Contains all datasets required for the projects
+
 ├── models/ # Contains all machine learning models
+
 │ ├── Cuisine_Classification/
+
 │ ├── Diabetes_Prediction/
+
 │ ├── Predicting_Restaurant_Ratings/
+
 │ ├── Restaurant_Recommendation/
+
 │ └── Sales_Prediction/
+
 └── README.md # Project documentation
 
 
