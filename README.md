@@ -1,6 +1,6 @@
 # Machine Learning Projects 📊
 
-This repository serves as a comprehensive collection of machine learning projects, each addressing different real-world problems through a variety of machine learning algorithms and techniques. The purpose of this repository is to demonstrate practical applications of machine learning concepts across different domains such as healthcare, food services, and retail.
+This repository serves as a comprehensive collection of Machine Learning projects, each addressing different real-world problems through a variety of machine learning algorithms and techniques. The purpose of this repository is to demonstrate practical applications of machine learning concepts across different domains such as healthcare, food services, and retail.
 
 The projects are systematically organized into separate folders for ease of navigation and understanding:
 
