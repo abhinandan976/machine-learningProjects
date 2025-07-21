@@ -69,7 +69,7 @@ The projects are systematically organized into separate folders for ease of navi
 ---
 
 ## 🛠 Requirements
-- Python 3.x
+- Python 3
 - Libraries:
   - pandas
   - numpy
