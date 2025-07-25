@@ -22,8 +22,7 @@ The projects are systematically organized into separate folders for ease of navi
 
 │ └── Sales_Prediction/
 
-└── README.md # Project documentation
-
+└── README.md 
 
 ---
 
