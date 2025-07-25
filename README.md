@@ -8,9 +8,9 @@ The projects are systematically organized into separate folders for ease of navi
 
 ## 📂 Project Structure
 
-├── dataset/ # Contains all datasets required for the projects
+├── dataset/ 
 
-├── models/ # Contains all machine learning models
+├── models/ 
 
 │ ├── Cuisine_Classification/
 
